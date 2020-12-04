@@ -1,0 +1,42 @@
+body{
+    width:90%;
+    background-color:skyblue;
+    margin: 15px auto;
+}
+
+header img{
+    max-width: 100%;
+    float:left;
+    height:auto;
+}
+
+h1{
+    text-align:left;
+    font-size: 400%;
+    font-family:"Lucida Sans Unicode";
+    color: black;
+}
+
+section h2{
+    text-align:left;
+    font-size: 200%;
+    font-family:"Lucida Sans Unicode";
+    color:black;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    padding: 10px;
+    font-size: 0.5rem;
+}
+
+p{
+    font-size: 115%;
+
+
+}
